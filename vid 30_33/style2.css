@@ -1,0 +1,68 @@
+div{
+    width: 400px;
+   margin: 100px 400px 100px 400px;
+   height: auto;
+   position: relative;
+   background-color: #eceff1;
+   letter-spacing: 1px;
+   line-height: 30px;
+   font-family:Arial, Helvetica, sans-serif ;
+   text-align: center;
+   border: 4px solid ;
+    border-color: red #2196f3 red #2196f3;
+}
+/*
+p{
+    border: 4px solid ;
+    border-color: red #2196f3 red #2196f3;
+}
+*/
+  .top-left{
+    position: absolute;
+    background-color: #2196f3;
+    color: white;  
+    top: -15px;
+    left: -25px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    border: 4px solid ;
+    border-color: #2196f3 red #2196f3 #2196f3;
+
+}
+.bottom-left{
+    position: absolute;
+    background-color: #2196f3;
+    color: white;
+    bottom: -15px;
+    left: -25px;
+    height: 30px;
+    width: 40px;
+    text-align: center;
+    border: 4px solid ;
+    border-color: #2196f3 red #2196f3 #2196f3;
+}
+.top-right{
+
+    position: absolute;
+    background-color: #2196f3;
+    color: white;
+    top: -15px;
+    right: -25px;
+    width: 40px;
+    height: 30px;
+    border: 4px solid ;
+    border-color: #2196f3  #2196f3 #2196f3 red;
+}
+.bottom-right{
+
+    position: absolute;
+    background-color: #2196f3;
+    color: white;
+    bottom: -15px;
+    right: -25px;
+    width: 40px;
+    height: 30px;
+    border: 4px solid ;
+    border-color: #2196f3  #2196f3 #2196f3 red;
+}

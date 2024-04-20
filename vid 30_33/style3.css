@@ -1,0 +1,44 @@
+.parent{
+    width: 400px;
+    margin-top: 50px;
+    margin: 20px auto;
+    background-color: #eee;
+    
+    
+}
+.first li{
+    background-color:white;
+    width: 330px;
+    list-style-type: decimal;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+.second li{
+    background-color:white;
+    width: 330px;
+    
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+.third{
+    list-style-position: inside;
+    list-style-type: circle;
+    background-color:#eee;
+    width: 330px;
+    
+    
+}
+.third li{
+    margin-bottom: 10px;
+    background-color:white;
+    width: 330px;
+    padding: 10px;
+
+}
+.x,
+.y,
+.z{
+    list-style-type: none;
+}

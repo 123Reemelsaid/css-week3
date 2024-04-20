@@ -1,0 +1,54 @@
+.parent{
+    width: 800px;
+    background-color: #eceff1;
+    height: 300px;
+}
+
+.parent1 div{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:#cfd8dc;
+    text-align: center;
+    float: left;
+    width:246.6667px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: 20px;
+}
+.parent2 div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #cfd8dc;
+    float: left;
+    width:377.5px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    height: 30px;
+}
+.parent3 div{
+    height: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #cfd8dc;
+    float: left;
+    width:181.25px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.w {
+    width: 770px;
+
+    background-color: #cfd8dc;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    
+}
